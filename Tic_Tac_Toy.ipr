@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectCodeStyleConfiguration">
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tic_Tac_Toy.iml" filepath="$PROJECT_DIR$/Tic_Tac_Toy.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18">
+    <output url="file://$PROJECT_DIR$/.." />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Dart SDK">
+      <CLASSES>
+        <root url="file://E:/programs-data/dart-sdk/lib/async" />
+        <root url="file://E:/programs-data/dart-sdk/lib/cli" />
+        <root url="file://E:/programs-data/dart-sdk/lib/collection" />
+        <root url="file://E:/programs-data/dart-sdk/lib/convert" />
+        <root url="file://E:/programs-data/dart-sdk/lib/core" />
+        <root url="file://E:/programs-data/dart-sdk/lib/developer" />
+        <root url="file://E:/programs-data/dart-sdk/lib/ffi" />
+        <root url="file://E:/programs-data/dart-sdk/lib/html" />
+        <root url="file://E:/programs-data/dart-sdk/lib/indexed_db" />
+        <root url="file://E:/programs-data/dart-sdk/lib/io" />
+        <root url="file://E:/programs-data/dart-sdk/lib/isolate" />
+        <root url="file://E:/programs-data/dart-sdk/lib/js" />
+        <root url="file://E:/programs-data/dart-sdk/lib/js_util" />
+        <root url="file://E:/programs-data/dart-sdk/lib/math" />
+        <root url="file://E:/programs-data/dart-sdk/lib/mirrors" />
+        <root url="file://E:/programs-data/dart-sdk/lib/svg" />
+        <root url="file://E:/programs-data/dart-sdk/lib/typed_data" />
+        <root url="file://E:/programs-data/dart-sdk/lib/web_audio" />
+        <root url="file://E:/programs-data/dart-sdk/lib/web_gl" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
